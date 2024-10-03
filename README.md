@@ -10,7 +10,10 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
 
 ##
 
-### Progresso: 🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <span style="color: blue; font-weight: bold;">0% Completo</span>
+### Progresso:
+
+🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+<span style="color: blue; font-weight: bold;">0% Completo</span>
 
 ##
 
