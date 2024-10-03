@@ -10,19 +10,19 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
 
 ##
 
-### Progresso: ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <span style="color: blue; font-weight: bold;">0% Completo</span>
+### Progresso: 🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <span style="color: blue; font-weight: bold;">0% Completo</span>
 
 ##
 
 ### Conteudo:
 
-- ### Introdução
-  - Introdução – JavaScript Moderno
-- ### Módulo A: Conhecendo o JavaScript
-  - Aula 1 – O que o JavaScript é capaz de fazer?
-  - Aula 2 – Como chegamos até aqui?
-  - Aula 3 – Dando os primeiros passos
-  - Aula 4 – Criando o seu primeiro script
+- ### ✔️Introdução
+  - ✔️Introdução – JavaScript Moderno
+- ### ✔️Módulo A: Conhecendo o JavaScript
+  - ✔️Aula 1 – O que o JavaScript é capaz de fazer?
+  - ✔️Aula 2 – Como chegamos até aqui?
+  - ✔️Aula 3 – Dando os primeiros passos
+  - ✔️Aula 4 – Criando o seu primeiro script
 - ### Módulo B: Comandos Básicos do JavaScript
   - Aula 5 – Variáveis e Tipos Primitivos
   - Aula 6 – Tratamento de dados
