@@ -12,8 +12,8 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
 
 ### Progresso:
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>
-<span style="color: blue; font-weight: bold;">38% Completo</span>
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>
+<span style="color: blue; font-weight: bold;">44% Completo</span>
 
 ##
 
@@ -31,9 +31,9 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
   - ✔️Aula 6 – Tratamento de dados
   - ✔️Aula 7 – Operadores (Parte1)
   - ✔️Aula 8 – Operadores (Parte 2)
-- ### Módulo C: Entendendo o DOM
+- ### ✔️Módulo C: Entendendo o DOM
   - ✔️Aula 9 – Introdução ao DOM
-  - Aula 10 – Eventos DOM
+  - ✔️Aula 10 – Eventos DOM
 - ### Módulo D: Condições em JavaScript
   - Aula 11 – Condições (Parte 1)
   - Aula 12 – Condições (Parte 2)
