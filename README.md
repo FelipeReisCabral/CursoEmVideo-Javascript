@@ -12,7 +12,7 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
 
 ### Progresso:
 
-🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️
+🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>
 <span style="color: blue; font-weight: bold;">0% Completo</span>
 
 ##
@@ -29,7 +29,7 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
 - ### Módulo B: Comandos Básicos do JavaScript
   - ✔️Aula 5 – Variáveis e Tipos Primitivos
   - ✔️Aula 6 – Tratamento de dados
-  - Aula 7 – Operadores (Parte1)
+  - ✔️Aula 7 – Operadores (Parte1)
   - Aula 8 – Operadores (Parte 2)
 - ### Módulo C: Entendendo o DOM
   - Aula 9 – Introdução ao DOM
