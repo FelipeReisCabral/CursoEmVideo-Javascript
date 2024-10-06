@@ -12,8 +12,8 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
 
 ### Progresso:
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>
-<span style="color: blue; font-weight: bold;">47% Completo</span>
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>
+<span style="color: blue; font-weight: bold;">61% Completo</span>
 
 ##
 
@@ -36,10 +36,10 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
   - ✔️Aula 10 – Eventos DOM
 - ### ✔️Módulo D: Condições em JavaScript
   - ✔️Aula 11 – Condições (Parte 1)
-  - Aula 12 – Condições (Parte 2)
-  - Exercícios JavaScript (Parte 1)
-  - Exercícios JavaScript (Parte 2)
-  - Exercícios JavaScript (Parte 3)
+  - ✔️Aula 12 – Condições (Parte 2)
+  - ✔️Exercícios JavaScript (Parte 1)
+  - ✔️Exercícios JavaScript (Parte 2)
+  - ✔️Exercícios JavaScript (Parte 3)
 - ### Módulo E: Repetições em JavaScript
   - Aula 13 – Repetições (Parte 1)
   - Aula 14 – Repetições (Parte 2)
