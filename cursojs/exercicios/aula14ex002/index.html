@@ -3,14 +3,28 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>titulo</title>
+    <title>Tabuada</title>
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <header id="cabeça"><h1>Título</h1></header>
+    <header id="cabeça"><h1>Tabuada</h1></header>
     <section id="conteudo">
-      <div id=""></div>
-      <div id=""></div>
+      <div id="numero">
+        <p>Informe um numero para ver sua tabuada...</p>
+        <p>
+          Número: <input type="number" name="num" id="num" />
+          <input type="button" value="Gerar Tabuada" onclick="calcular()" />
+        </p>
+      </div>
+      <div id="res">
+        <select name="tabuada" id="tab" size="11">
+          <option>Digite um número acima</option>
+        </select>
+
+        <!--<table id="tab">
+          <tbody></tbody>
+        </table>-->
+      </div>
     </section>
     <footer id="rodapé">@felipereiscabral</footer>
 

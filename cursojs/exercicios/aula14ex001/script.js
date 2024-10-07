@@ -15,14 +15,16 @@ function contar() {
     if (p <= 0) {
       p = 1;
       res.innerHTML =
-        "<p>Para passo 0, consideraremos o valor 1<br>Contando...</p>";
+        "<p>Para passo 0, será utilizado valor 1<br>Contando...</p>";
     }
     if (i > f) {
       for (var c = i; c >= f; c -= p) {
+        //contagem decrescente
         res.innerHTML += `${c} ➔ `;
       }
     } else {
       for (var c = i; c <= f; c += p) {
+        //contagem crescente
         res.innerHTML += `${c} ➔ `;
       }
     }
