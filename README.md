@@ -12,8 +12,8 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
 
 ### Progresso:
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>
-<span style="color: blue; font-weight: bold;">61% Completo</span>
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ <br>
+<span style="color: blue; font-weight: bold;">70% Completo</span>
 
 ##
 
@@ -40,11 +40,11 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
   - ✔️Exercícios JavaScript (Parte 1)
   - ✔️Exercícios JavaScript (Parte 2)
   - ✔️Exercícios JavaScript (Parte 3)
-- ### Módulo E: Repetições em JavaScript
-  - Aula 13 – Repetições (Parte 1)
-  - Aula 14 – Repetições (Parte 2)
-  - Exercícios JavaScript (Parte 4)
-  - Exercícios JavaScript (Parte 5)
+- ### ✔️Módulo E: Repetições em JavaScript
+  - ✔️Aula 13 – Repetições (Parte 1)
+  - ✔️Aula 14 – Repetições (Parte 2)
+  - ✔️Exercícios JavaScript (Parte 4)
+  - ✔️Exercícios JavaScript (Parte 5)
   - Exercícios JavaScript (Parte 6)
 - ### Módulo F: Avançando os estudos em JavaScript
   - Aula 15 – Variáveis Compostas
