@@ -12,8 +12,8 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
 
 ### Progresso:
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️ <br>
-<span style="color: blue; font-weight: bold;">85% Completo</span>
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 <br>
+<span style="color: blue; font-weight: bold;">100% Completo</span>
 
 ##
 
@@ -49,7 +49,7 @@ _Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser apren
 - ### ✔️Módulo F: Avançando os estudos em JavaScript
   - ✔️Aula 15 – Variáveis Compostas
   - ✔️Aula 16 – Funções
-  - Exercícios JavaScript (Parte 7)
-  - Exercícios JavaScript (Parte 8)
-  - Aula 17 – Próximos Passos
-- ### Teste JavaScript
+  - ✔️Exercícios JavaScript (Parte 7)
+  - ✔️Exercícios JavaScript (Parte 8)
+  - ✔️Aula 17 – Próximos Passos
+- ### ✔️Teste JavaScript
