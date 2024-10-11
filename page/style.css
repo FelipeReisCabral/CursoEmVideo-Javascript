@@ -41,3 +41,84 @@ img {
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.596);
   width: 400px;
 }
+
+button {
+  outline: none;
+  border: none;
+  background: none;
+  padding: 0;
+  cursor: default;
+  position: relative;
+}
+
+button:hover {
+  opacity: 0.8;
+  transition: background-color 0.3s ease-in-out;
+}
+
+span {
+  color: black;
+  font: Normal 20pt Arial;
+  text-align: end;
+  position: absolute;
+  top: 75%; /* Centraliza verticalmente */
+  left: 50%; /* Centraliza horizontalmente */
+  transform: translate(-25%, -50%); /* Ajusta a posição 1  */
+}
+
+span#github {
+  font: Normal 20pt Arial;
+  color: white;
+}
+
+span#white {
+  display: inline-block;
+  width: 350px;
+  font: Normal 20pt Arial;
+  color: white;
+  text-align: left;
+  position: absolute;
+  top: 75%; /* Centraliza verticalmente */
+  left: 50%; /* Centraliza horizontalmente */
+  transform: translate(-50%, -50%); /* Ajusta a posição 1  */
+}
+
+span#black {
+  display: inline-block;
+  width: 350px;
+  font: Normal 20pt Arial;
+  color: black;
+  text-align: left;
+  position: absolute;
+  top: 75%; /* Centraliza verticalmente */
+  left: 50%; /* Centraliza horizontalmente */
+  transform: translate(-50%, -50%); /* Ajusta a posição 1  */
+}
+
+span#other {
+  display: inline-block;
+  width: 350px;
+  font: Normal 20pt Arial;
+  color: black;
+  text-align: left;
+  position: absolute;
+  top: 60%; /* Centraliza verticalmente */
+  left: 50%; /* Centraliza horizontalmente */
+  transform: translate(-50%, -50%); /* Ajusta a posição 1  */
+}
+
+span#curso {
+  display: inline-block;
+  color: black;
+  font: Normal 35pt Arial;
+  text-align: end;
+  position: absolute;
+  top: 25%; /* Centraliza verticalmente */
+  left: 40%; /* Centraliza horizontalmente */
+  transform: translate(-25%, -50%); /* Ajusta a posição 1  */
+}
+
+button#curso:hover {
+  opacity: initial;
+  transition: none;
+}
