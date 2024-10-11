@@ -5,5 +5,14 @@
   },
   "devDependencies": {
     "prettier": "^3.3.3"
+  },
+  "name": "cursoemvideo-javascript",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "FelipeCabral",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6"
   }
 }
