@@ -76,3 +76,6 @@ function finalizar() {
     res.innerHTML += `<p>A média dos valores digitados é: ${media().toFixed(2)}</p>`;
   }
 }
+window.alert(
+  '"Este código JavaScript cria uma aplicação que permite ao usuário adicionar números a uma lista, validando os números para garantir que estejam entre 1 e 100 e que não sejam repetidos. Após adicionar os números, a aplicação calcula e exibe o menor valor, o maior valor, a soma e a média dos números adicionados."',
+);

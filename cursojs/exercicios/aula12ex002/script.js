@@ -82,3 +82,6 @@ function verificar() {
     res.appendChild(img);
   }
 }
+window.alert(
+  '"Este aplicativo em JavaScript calcula a idade de uma pessoa com base no ano de nascimento e sexo informados. Utilizei manipulação do DOM, validação de dados e condicionais para criar uma interface interativa que exibe uma imagem correspondente à faixa etária e gênero."',
+);

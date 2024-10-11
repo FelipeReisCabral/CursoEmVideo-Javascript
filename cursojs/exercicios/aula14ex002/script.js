@@ -27,3 +27,6 @@ function calcular() {
     }
   }
 }
+window.alert(
+  '"Este código JavaScript cria uma calculadora de tabuada simples. O usuário insere um número e o programa gera a tabuada desse número de 0 a 10, exibindo os resultados em uma lista suspensa (select)"',
+);

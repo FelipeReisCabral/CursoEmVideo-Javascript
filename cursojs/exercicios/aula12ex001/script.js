@@ -16,3 +16,6 @@ if (agora < 12) {
   div2.innerHTML =
     '<img src="/cursojs/exercicios/aula12ex001/imagens/noite.png" alt="noite" id="img">';
 }
+window.alert(
+  '"Este código JavaScript demonstra a criação de uma interface dinâmica que se adapta à hora do dia. Através da manipulação do DOM e de condicionais, a página altera sua aparência visual, proporcionando uma experiência mais personalizada e envolvente para o usuário. Essa funcionalidade simples, porém eficaz, demonstra meu conhecimento em JavaScript e minha capacidade de criar interfaces interativas."',
+);

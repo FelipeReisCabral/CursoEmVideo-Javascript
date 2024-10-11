@@ -31,3 +31,6 @@ function contar() {
     res.innerHTML += "FIM";
   }
 }
+window.alert(
+  'Este código JavaScript cria um contador personalizado que permite ao usuário definir o valor inicial, final e o passo da contagem. A aplicação valida os dados de entrada e realiza a contagem de forma crescente ou decrescente, exibindo os resultados em um elemento HTML"',
+);
